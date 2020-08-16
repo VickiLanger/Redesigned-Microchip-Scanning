@@ -10,18 +10,18 @@ Words
 ---
 
 ## Jump To
-- [Things to Include](#ideas-of-things-to-include)
-- [How you can help](#how-you-can-help)
-  * [Individuals](#individuals)
-  * [Businesses](#businesses)
-- [Contributors](#many-thanks-for-contributing)
+- [Tweets that Started it All](#Tweets-that-Started-it-All)
+- [BBB](#BBB)
+  * [bbb](#bbb)
+  * [bbbb](#bbbb)
+- [CCC](#CCC)
 
 ---
 ## Tweets that Started it All
 
-https://twitter.com/vicki_langer/status/1289958957386260488
+(https://twitter.com/vicki_langer/status/1289958957386260488)
 
-https://twitter.com/vicki_langer/status/1294378853121630208
+(https://twitter.com/vicki_langer/status/1294378853121630208)
 
 
 ### aaa
@@ -53,14 +53,14 @@ https://twitter.com/vicki_langer/status/1294378853121630208
  - 
 
 
-### bbb
+### bbbb
 
  - 
  - 
 
 
 ---
-## xxxxx
+## CCC
 
 | 123        | abc |
 |:-----------|:-------------|
