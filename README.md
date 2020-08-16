@@ -5,7 +5,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/CodeNewbie-Kit.svg)](https://GitHub.com/VickiLanger/CodeNewbie-Kit/graphs/contributors/)
 
 ## Goal
-Provide resources to help newbie devs get their journey started. Our focus is on helping underrepresented newbie devs feel like they belong
+Words
 
 ---
 
@@ -17,9 +17,19 @@ Provide resources to help newbie devs get their journey started. Our focus is on
 - [Contributors](#many-thanks-for-contributing)
 
 ---
-## AAA
+## Tweets that Started it All
 
-Starting with physical snail mail welcome kits. Eventually will gather a website, I think.
+https://twitter.com/vicki_langer/status/1289958957386260488
+
+https://twitter.com/vicki_langer/status/1294378853121630208
+
+
+### aaa
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ### aaa
 - [ ] 
@@ -28,17 +38,8 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] 
 - [ ] 
 
-### aaa
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
 
 ### aaa
-
-I need help finding emails for for the ones I haven't contacted yet.
 
 
 
