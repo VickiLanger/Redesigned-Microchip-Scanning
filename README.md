@@ -19,9 +19,10 @@ Words
 ---
 ## Tweets that Started it All
 
-(https://twitter.com/vicki_langer/status/1289958957386260488)
 
-(https://twitter.com/vicki_langer/status/1294378853121630208)
+[https://twitter.com/vicki_langer/status/1289958957386260488](https://twitter.com/vicki_langer/status/1289958957386260488)
+
+[https://twitter.com/vicki_langer/status/1294378853121630208](https://twitter.com/vicki_langer/status/1294378853121630208)
 
 
 ### aaa
