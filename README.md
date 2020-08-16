@@ -65,6 +65,8 @@ It would take the scanner being IoT and a Twilio api to send the texts. As a pet
 
 ### Market Research
 
+https://twitter.com/vicki_langer/status/1294393113130217472?s=20
+
 ### Design / Development
 
 ### User Testing
