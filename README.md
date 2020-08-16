@@ -5,7 +5,17 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/CodeNewbie-Kit.svg)](https://GitHub.com/VickiLanger/CodeNewbie-Kit/graphs/contributors/)
 
 ## Concept / Idea / Goal
-Words
+It would be cool if you could reverse search pet microchips to see if your lost pet has been scanned by someone. Or even get a text when your pet's chip is scanned.
+
+### Story 
+Lost cat has rfid chip. Cat gets taken to vet. Vet scans w/ DataMars scanner
+### Theory 
+scan could be saved in a db which triggers API to send a text to pet parent
+
+### How
+It would take vets changing things to scan every new animal that comes in, instead of just the ones people bring in claiming to be stray.
+
+It would take the scanner being IoT and a Twilio api to send the texts. As a pet parent, I would pay more for my chip for this
 
 ---
 
